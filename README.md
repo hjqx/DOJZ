@@ -1,7 +1,9 @@
 # DOJZ
 all my samples for import and str obfuscation
-__
+--
+<br>
 No name yet
+
 ```py
 def _7vzl020(__892,_s0x82):
     def _0x83728ç939(___, ____, e: int = __builtins__):
@@ -17,7 +19,8 @@ def _7vzl020(__892,_s0x82):
 _S=lambda __E:_7vzl020(__E,globals())
 print(_S(3973))
 ```
-__
+--
+<br>
 Dkz27 v1.1
 ```py
 {"Made by zqh aka hjqx": "https://github.com/hjqx/DOJZ", 
